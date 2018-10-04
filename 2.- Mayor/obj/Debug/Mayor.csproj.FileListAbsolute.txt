@@ -1,0 +1,6 @@
+C:\Users\Abraham\Desktop\Mayor\bin\Debug\Mayor.exe.config
+C:\Users\Abraham\Desktop\Mayor\obj\Debug\Mayor.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\Mayor\bin\Debug\Mayor.exe
+C:\Users\Abraham\Desktop\Mayor\bin\Debug\Mayor.pdb
+C:\Users\Abraham\Desktop\Mayor\obj\Debug\Mayor.exe
+C:\Users\Abraham\Desktop\Mayor\obj\Debug\Mayor.pdb
